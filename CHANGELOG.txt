@@ -1,0 +1,16 @@
+# List Master Pro - Version History
+
+## v1.0.0 (2024-01-15)
+✨ Initial Release  
+- Core text processing engine  
+- GUI with modern dark theme  
+- MIT License integration  
+
+## v1.1.0 (2024-03-20)
+✅ Enhancements:  
+- Added seed control for shuffling  
+- Improved duplicate detection algorithms  
+
+🐛 Bug Fixes:  
+- Fixed clipboard compatibility issues  
+- Resolved line counter latency  
