@@ -1,0 +1,32 @@
+# List Master Pro - Terms of Use (2024)
+
+## 1. Acceptance of Terms
+By accessing or using List Master Pro, you agree to be bound by these terms.
+
+## 2. License Grant
+Subject to compliance, H7117 grants you a:
+- Non-exclusive
+- Non-transferable
+- Revocable license
+to use the software for personal/commercial purposes.
+
+## 3. Permitted Use
+✔️ Allowed:  
+- Personal text processing  
+- Educational/research purposes  
+- Integration in non-profit projects  
+
+❌ Prohibited:  
+- Reverse engineering (except under MIT terms)  
+- Redistribution without attribution  
+- Illegal data manipulation  
+
+## 4. Copyright Notice
+© 2024 H7117. All rights reserved.  
+GitHub: https://github.com/MH7117  
+
+## 5. Disclaimer
+The developer is not liable for:
+- Data loss during processing
+- Compatibility issues
+- Third-party modifications
